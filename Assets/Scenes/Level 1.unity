@@ -21103,6 +21103,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: 8871128089707298118, guid: 0251de97777839a478ca3dea59017379, type: 3}
+      propertyPath: TutorialTexts.Array.data[0]
+      value: Tap Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 8871128089707298118, guid: 0251de97777839a478ca3dea59017379, type: 3}
       propertyPath: OtherElements.Array.data[10]
       value: 
       objectReference: {fileID: 0}
