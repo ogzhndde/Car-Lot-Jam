@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b954c4fd373578a4fa2d62261e9af09b, type: 3}
+  m_Name: PropsData
+  m_EditorClassIdentifier: 
+  RoadLinear: {fileID: 6983776620866420432, guid: f641a9906f3f65a47863fa0b38c6ff4e, type: 3}
+  RoadT: {fileID: 929541250204159916, guid: f651609b7cfc1e74cbd19de9f2a9f2aa, type: 3}
+  RoadCorner: {fileID: 4960532734283256065, guid: a1b217f4fd238ec4d9dcce46e58345c1, type: 3}
+  Grid: {fileID: 5719974982774949581, guid: bec5b55fe6e450c4cadc6816938efede, type: 3}

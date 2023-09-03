@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f319133c54dbfe7498d689097b6a52fb, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  totalMoney: 0
+  LevelCount: 1
+  UILevelCount: 1
+  levels:
+  - LevelType: LoadLevel
+  - LevelType: 'Level 1: 3x3'
+  - LevelType: 'Level 2: 3x3'
+  - LevelType: 'Level 3: 4x4'
+  - LevelType: 'Level 4: 4x4'
+  - LevelType: 'Level 5: 5x6'
+  - LevelType: 'Level 6: 5x5'
+  - LevelType: 'Level 7: 5x5'
+  - LevelType: 'Level 8: 5x5'
+  - LevelType: 'Level 9: 3x3'
+  - LevelType: 'Level 10: 5x6'
